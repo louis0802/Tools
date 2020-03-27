@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# History:
+# 2020/3/27	Louis Liu	First release
 
 if ! [ $(id -u) = 0 ]; then
    echo "This script must be run as root"
