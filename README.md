@@ -1,5 +1,5 @@
 # Tools
-This is convenient tools please feel free to use
+This is convenient tools please feel free to use if something invalid please E-Mail me 3a417121@gmail.com if you have other idea also welcome thank and enjoy
 1. Switch Graphic Card :  
 Because I using laptop and I want my battery can lasting longer when I go out.
 2. TouchPad Gesture :  
