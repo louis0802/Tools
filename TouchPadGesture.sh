@@ -50,7 +50,7 @@ interval:
   swipe: 1
   pinch: 1" >>  ~/.config/fusuma/config.yml
 
-sudo chmod 777 config.yml
+sudo chmod 777 ~/.config/fusuma/config.yml
 
 
 
@@ -67,4 +67,16 @@ Comment[en_SG]=
 Comment=" >> ~/.config/autostart/fusuma.desktop
 
 sudo chmod 777 ~/.config/autostart/fusuma.desktop
+
+read -p "Do you need reboot now to apply new change? Y/N " reboot
+if [ $reboot == "y" ] || [ $reboot == "Y" ];
+	then sudo reboot now
+else 
+	sudo fusuma	
+	echo "You need reboot to apply new change"
+fi
+
+
+
+
 
