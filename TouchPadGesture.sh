@@ -1,4 +1,8 @@
 #!/bin/bash
+#Reference from https://askubuntu.com/questions/1034624/touchpad-gestures-in-ubuntu-18-04-lts
+# History:
+# 2020/3/28	Louis Liu	First release
+
 if ! [ $(id -u) = 0 ]; then
    echo "This script must be run as root"
    exit 1
