@@ -8,10 +8,8 @@ Mult-touch Gesture | Action |
 3 Fingers - Right | Go Next on Browser |  
 3 Fingers - Up | Show all Windows|  
 3 Fingers - Down | Close Exposé (Esc) |  
-4 Fingers - Left | Next Desktop |  
-4 Fingers - Right | Previous Desktop|  
-4 Fingers - Up | Next Desktop|  
-4 Fingers - Down | Previous Desktop|  
+4 Fingers - Up | Previous Desktop|  
+4 Fingers - Down | Next Desktop|  
 
 
   
